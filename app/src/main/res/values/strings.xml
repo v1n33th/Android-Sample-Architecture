@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectX</string>
+
+    <string name="general_shared_pref">generalsharedpref</string>
+    <string name="user_shared_pref">usersharedpref</string>
+    <string name="crypto_shared_pref">cryptoshared</string>
+</resources>
